@@ -1,0 +1,88 @@
+/**
+ * Main CSS stylesheet for website.
+ * Benjamin Shanahan
+ * Created 20141227
+ */
+
+
+/* HTML Tags */
+body {
+    background-color: #000000;
+    color: #DDDDDD;
+    font-family: Arial;
+    font-size: 14pt;
+}
+h1 {
+    color: #F3F3F3;
+    font-variant: small-caps;
+}
+h2 {
+    color: #BDBDBD;
+    font-size: 1em;
+    margin-top: -25px;
+    font-style: italic;
+}
+hr {
+    width: 80%;
+    border: dashed 1px #222222;
+}
+
+
+/* Classes */
+.content {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.footer {
+    font-size: 0.95em;
+    color: #A5A5A5;
+    height: 70px;
+    padding-top: 10px;
+    padding-left: 2.5%;
+}
+
+.absolute-center {
+    /* Internet Explorer 10 */
+    display: -ms-flexbox;
+    -ms-flex-pack: center;
+    -ms-flex-align: center;
+
+    /* Firefox */
+    display: -moz-box;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+
+    /* Safari, Opera, and Chrome */
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+
+    /* W3C */
+    display: box;
+    box-pack: center;
+    box-align: center;
+}
+.emphasis {
+    font-weight: bold;
+}
+.hidden {
+    display: none;
+}
+
+.catalog {
+    width: 100%;
+}
+.catalog-navigation {}
+.catalog-navigation-links {
+    text-align: center;
+}
+.catalog-images {}
+
+
+
+/* IDs */
+#navlist li {
+    display: inline;
+    padding-right: 7%;
+}

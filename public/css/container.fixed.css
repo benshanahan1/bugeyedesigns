@@ -1,0 +1,8 @@
+/* Container fixed in place (does not scroll with page). */
+
+.container {
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-top: 100px;
+    background-color: #111111;
+}

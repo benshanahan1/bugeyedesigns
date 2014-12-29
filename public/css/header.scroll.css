@@ -1,0 +1,26 @@
+/**
+ * Formatting for site header bar (scrolls with page).
+ */
+
+.header {
+    position: relative;
+    width: 100%;
+    height: 115px;
+    margin-left: -8px;
+	margin-right: 3%;
+    margin-top: -8px;
+    background-color: #222222;
+}
+.header-top {}
+.header-bottom {
+    height: 40px;
+}
+.header-navigation {
+    margin-left: 30%;
+    width: 70%;
+    height: 100%;
+    line-height: 110px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.2em;
+}

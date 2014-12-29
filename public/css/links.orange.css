@@ -1,0 +1,9 @@
+/* Links, orange theme. */
+
+a {
+    color: #CD3F3F;
+    text-decoration: none;
+}
+a:hover {
+    color: #ef7c61;
+}

@@ -1,0 +1,10 @@
+/* Header navigation, orange theme. */
+
+.header-navigation a {
+    color: #CD3F3F;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+}
+.header-navigation a:hover {
+    color: #ef7c61;
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<catalog>
+
+	<items type="Shirts">
+		<item type="Shirt" name="Shirt 1" description="This is the description of Shirt 1." filename="shirt1.png" />
+		<item type="Shirt" name="Shirt 2" description="This is the description of Shirt 2." filename="shirt2.png" />
+		<item type="Shirt" name="Shirt 3" description="This is the description of Shirt 3." filename="shirt3.png" />
+		<item type="Shirt" name="Shirt 4" description="This is the description of Shirt 4." filename="shirt4.png" />
+	</items>
+	
+	<items type="Decals">
+		<item type="Decal" name="Decal 1" description="This is the description of Decal 1." filename="decal1.png" />
+		<item type="Decal" name="Decal 2" description="This is the description of Decal 2." filename="decal2.png" />
+		<item type="Decal" name="Decal 3" description="This is the description of Decal 3." filename="decal3.png" />
+		<item type="Decal" name="Decal 4" description="This is the description of Decal 4." filename="decal4.png" />
+	</items>
+	
+	<items type="Posters">
+		<item type="Poster" name="Poster 1" description="This is the description of Poster 1." filename="poster1.png" />
+		<item type="Poster" name="Poster 2" description="This is the description of Poster 2." filename="poster2.png" />
+		<item type="Poster" name="Poster 3" description="This is the description of Poster 3." filename="poster3.png" />
+		<item type="Poster" name="Poster 4" description="This is the description of Poster 4." filename="poster4.png" />
+	</items>
+	
+	<items type="Stencils">
+		<item type="Stencil" name="Stencil 1" description="This is the description of Stencil 1." filename="stencil1.png" />
+		<item type="Stencil" name="Stencil 2" description="This is the description of Stencil 2." filename="stencil2.png" />
+		<item type="Stencil" name="Stencil 3" description="This is the description of Stencil 3." filename="stencil3.png" />
+		<item type="Stencil" name="Stencil 4" description="This is the description of Stencil 4." filename="stencil4.png" />
+	</items>
+
+</catalog>

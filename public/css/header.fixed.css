@@ -1,0 +1,29 @@
+/**
+ * Formatting for site header bar (fixed in place).
+ */
+
+.header {
+    position: fixed;
+    width: 100%;
+    height: 115px;
+    margin-left: -8px;
+    margin-top: -8px;
+    background-color: #222222;
+}
+.header-top {
+    height: 90px;
+}
+.header-bottom {
+    background-image: url("../images/header_shadow.png");
+    background-repeat: repeat-x;
+    height: 40px;
+}
+.header-navigation {
+    margin-left: 30%;
+    width: 70%;
+    height: 100%;
+    line-height: 75px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.2em;
+}

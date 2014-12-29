@@ -1,0 +1,9 @@
+/* Site logo, cyan theme. */
+#logo {
+    float: left;
+    margin-left: 5%;
+	width: 394px;
+	height: 74px;
+	background-image: url('../images/temp_logo.cyan.png');
+	background-repeat: no-repeat;
+}

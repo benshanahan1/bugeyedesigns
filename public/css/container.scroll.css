@@ -1,0 +1,10 @@
+/* Container scrolls with page. */
+
+.container {
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-top: 5px;
+    background-color: #111111;
+    background-image: url("../images/header_shadow.png");
+    background-repeat: repeat-x;
+}
